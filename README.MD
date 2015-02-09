@@ -7,6 +7,7 @@ core LBP convert code is <a href="https://github.com/akjava/akjava_gwtlib/blob/m
 ##warning
 neighbors pixel is  correct only value 1. 
 
+sample size fixed 8,this mean created LBP-data could turn only per 45 degree.
 ##Demo
 http://www.akjava.com/en/webapps/GWTLBPTest.html
 
