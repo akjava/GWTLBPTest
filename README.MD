@@ -8,7 +8,7 @@ core LBP convert code is <a href="https://github.com/akjava/akjava_gwtlib/blob/m
 neighbors pixel is  correct only value 1. 
 
 ##Demo
-TODO
+http://www.akjava.com/en/webapps/GWTLBPTest.html
 
 ##License
 MIT
